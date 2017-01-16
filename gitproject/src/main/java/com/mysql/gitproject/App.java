@@ -6,7 +6,7 @@ package com.mysql.gitproject;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public  void XYZ( String[] args )
     {
         System.out.println( "Hello World!1" );
     }
