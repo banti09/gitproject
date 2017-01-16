@@ -1,6 +1,6 @@
 package com.mysql.gitproject;
 
-public class PringOutPut {
+public class PringOutPutTest {
 	
 	public static void main( String[] args )
     {
